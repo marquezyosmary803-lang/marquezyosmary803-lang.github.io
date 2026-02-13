@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Feliz San Valentín ❤️</title>
+<style>
+body {
+  background-color: #ffdde1;
+  text-align: center;
+  font-family: Arial;
+  padding: 50px;
+}
+
+h1 {
+  color: #c9184a;
+}
+
+p {
+  font-size: 20px;
+  color: #590d22;
+}
+
+img {
+  width: 250px;
+  border-radius: 15px;
+  margin-top: 20px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Feliz San Valentín ❤️</h1>
+
+<p>Aunque la distancia nos separe, mi corazón siempre te elige.</p>
+
+<p>Desde Venezuela hasta Colombia, te amo.</p>
+
+<img src="AQUI_PEGA_EL_LINK_DE_LA_IMAGEN">
+
+<p>Algún día nos abrazaremos y este día será el inicio de nuestra historia real.</p>
+
+</body>
+</html>
